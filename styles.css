@@ -1,0 +1,28 @@
+body {
+    background: #eef2f7;
+    min-height: 100vh;
+}
+
+.form-card {
+    max-width: 520px;
+    margin: 4rem auto;
+    border: 1px solid #dee2e6;
+}
+
+.form-title {
+    font-weight: 700;
+}
+
+.invalid-feedback {
+    display: block;
+}
+
+.btn-primary {
+    background-color: #2553a1;
+    border-color: #1f4b8a;
+}
+
+.btn-primary:hover {
+    background-color: #1f4177;
+    border-color: #1a3d6b;
+}
